@@ -3,7 +3,7 @@ public class App {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World");
-		System.out.println("GG");
+		System.out.println("GG. SUCK MY ASS.");
 
 	}
 
